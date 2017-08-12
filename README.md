@@ -15,7 +15,7 @@ repository.mynewt-nrf52-adc-driver:
     type: github
     vers: 0-latest
     user: jawwadshaukat
-    repo: nrf52-adc-driver
+    repo: mynewt-nrf52-adc-driver
 ```
 
 Then add the packge to your projects pkg.yml
