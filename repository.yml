@@ -17,7 +17,7 @@
 # under the License.
 #
 
-repo.name: nrf51-adc-driver
+repo.name: mynewt-nrf52-adc-driver
 repo.versions:
     "0.0.0": "master"
 
